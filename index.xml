@@ -6,7 +6,7 @@
     <description>Recent content on @smileisak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2020 14:33:34 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 14:33:12 +0200</lastBuildDate>
     
 	<atom:link href="https://smileisak.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,15 +19,6 @@
       <guid>https://smileisak.com/posts/feedbacks/cka-ckad-feedback/cka-ckad-feedback/</guid>
       <description>I recently had the opportunity to pass Certified Kubernetes Application Developer Exam as a beta tester, one month before I’ve passed the Certified Kubernetes Administrator Exam.
 The two exams are hand-on performance-based. So, I’ve practiced Kubernetes for a period before passing them. CKA and CKAD exams are managed by CNCF (Cloud Native Computing Foundation) and cost me $300 per exam. To register for CKA and CKAD exam, you need to create an account in cncf.</description>
-    </item>
-    
-    <item>
-      <title>Kopf (Kubernetes Operator Pythonic Framework)</title>
-      <link>https://smileisak.com/posts/discoveries/kopf/kopf/</link>
-      <pubDate>Thu, 09 Jul 2020 14:33:34 +0200</pubDate>
-      
-      <guid>https://smileisak.com/posts/discoveries/kopf/kopf/</guid>
-      <description>Comming Soon </description>
     </item>
     
   </channel>
